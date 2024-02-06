@@ -1,3 +1,6 @@
+# About
+Faster Triggerbot ever exist. ehe >< Menyala Abangkuhhh
+
 # How to setup
 - Compile python. I use Nuitka
 - Start Exe, Start Valorant, go to ingame settings and use purple outline.
